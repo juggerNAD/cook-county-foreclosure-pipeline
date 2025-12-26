@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+
+# Output files
+*.csv
+*.json
+
+# PDFs
+pdf/
+pdfs/
+
+# Secrets
+.env
+
+# OS
+.DS_Store
+Thumbs.db
